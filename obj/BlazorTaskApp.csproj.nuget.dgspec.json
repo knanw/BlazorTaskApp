@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Developer\\Microsoft\\source1\\repos\\BlazorTaskApp\\BlazorTaskApp.csproj": {}
+    "C:\\Developer\\Microsoft\\source1\\repos\\t\\BlazorTaskApp\\BlazorTaskApp.csproj": {}
   },
   "projects": {
-    "C:\\Developer\\Microsoft\\source1\\repos\\BlazorTaskApp\\BlazorTaskApp.csproj": {
+    "C:\\Developer\\Microsoft\\source1\\repos\\t\\BlazorTaskApp\\BlazorTaskApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Developer\\Microsoft\\source1\\repos\\BlazorTaskApp\\BlazorTaskApp.csproj",
+        "projectUniqueName": "C:\\Developer\\Microsoft\\source1\\repos\\t\\BlazorTaskApp\\BlazorTaskApp.csproj",
         "projectName": "BlazorTaskApp",
-        "projectPath": "C:\\Developer\\Microsoft\\source1\\repos\\BlazorTaskApp\\BlazorTaskApp.csproj",
+        "projectPath": "C:\\Developer\\Microsoft\\source1\\repos\\t\\BlazorTaskApp\\BlazorTaskApp.csproj",
         "packagesPath": "C:\\Users\\knanw\\.nuget\\packages\\",
-        "outputPath": "C:\\Developer\\Microsoft\\source1\\repos\\BlazorTaskApp\\obj\\",
+        "outputPath": "C:\\Developer\\Microsoft\\source1\\repos\\t\\BlazorTaskApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\knanw\\AppData\\Roaming\\NuGet\\NuGet.Config",

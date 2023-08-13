@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorTaskApp
 build_property.RootNamespace = BlazorTaskApp
-build_property.ProjectDir = C:\Developer\Microsoft\source1\repos\BlazorTaskApp\
+build_property.ProjectDir = C:\Developer\Microsoft\source1\repos\t\BlazorTaskApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Developer\Microsoft\source1\repos\BlazorTaskApp
+build_property.MSBuildProjectDirectory = C:\Developer\Microsoft\source1\repos\t\BlazorTaskApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/App.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Pages/AddJob.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Pages/AddJob.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkSm9iLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Pages/Counter.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Pages/DeleteJob.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Pages/DeleteJob.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlSm9iLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Pages/EditJob.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Pages/EditJob.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEpvYi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Pages/FetchData.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Pages/Index.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Pages/Jobs.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Pages/Jobs.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9icy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Shared/SurveyPrompt.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/_Imports.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Shared/MainLayout.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lo3adoo6lz
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Shared/NavMenu.razor]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-17tkkcgt3f
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Pages/Error.cshtml]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Developer/Microsoft/source1/repos/BlazorTaskApp/Pages/_Host.cshtml]
+[C:/Developer/Microsoft/source1/repos/t/BlazorTaskApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
