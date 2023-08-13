@@ -1,0 +1,65 @@
+﻿@page "/Jobs"
+@using BlazorTaskApp.Data
+@inject JobService JobService
+
+<NavLink class="nav-link" href="AddJob">
+    <span class="oi oi-plus" aria-hidden="true">Add New</span>
+
+</NavLink>
+
+<h1>Job Info</h1>
+@if (jObj is null)
+{
+    <p><em>Loading... !</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Job Id</th>
+                <th>Job Name</th>
+                <th>Status</th>
+                <th>Due Date</th>
+                <th>Priority</th>
+                <th>Size</th>
+                <th>Master</th>
+                <th>Description</th>
+                <th>Note</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var j in jObj)
+            {
+            <tr>
+                <td>@j.Id</td>
+                <td>@j.Name</td>
+                <td>@j.Status</td>
+                <td>@j.DueDate</td>
+                <td>@j.Priority</td>
+                <td>@j.Size</td>
+                <td>@j.Master</td>
+                <td>@j.Description</td>
+                <td>@j.Note</td>
+                <td>
+                    <a class="nav-link" href="EditJob/@j.Id">
+                        <span class="oi oi-pencil" aria-hidden="true">Edit</span>
+                    </a>
+                    <a class="nav-link" href="DeleteJob/@j.Id">
+                        <span class="oi oi-trash" aria-hidden="true">Delete</span>
+                    </a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+@code {
+    List<Job> jObj;
+    protected override async Task OnInitializedAsync()
+    {
+        jObj = await Task.Run(() => JobService.GetAllJobsAsync());
+    }
+}
